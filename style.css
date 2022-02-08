@@ -1,0 +1,81 @@
+.whole-bolock-background {
+    background-color: #0865DE;
+    width: 1440px;
+    height: 743px;
+    padding-top: 23px;
+}  
+
+.circle {
+    border-radius: 50%;
+    height: 27px;
+    width: 27px;
+    box-shadow: inset 0px 0px 0px 8px rgb(255, 255, 255);   
+    margin-left: 26px;
+}
+    /* logos adgilas rom wre iyo eg ver davakopire sheifit iyo XD-shi gaketebuli amitom davserche borderis shida mxaris gaketeba*/
+
+nav li{
+    color: #FFFFFF;
+    font-family: Brandon Grotesque; 
+    font-size: 12px;
+    font-weight: bold;
+    line height: 18;
+    text-transform: uppercase;
+}
+   /* headershi listtan text transform-shi capitalize-m ar imushava, da uppercasem imushava */
+
+h1 {
+    color: #FFFFFF;
+    font-family: Brandon Grotesque; 
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
+    line height: 43;
+    letter-spacing: 9px;
+}
+h2 {
+    color: #FFFFFF;
+    font-family: Brandon Grotesque; 
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+    line height: 30;
+    letter-spacing: 5px;
+}
+
+
+.vision-list {
+    color: #D1D1D1;
+    font-family: Brandon Grotesque; 
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: capitalize;
+    line-height:  33.3px;
+    letter-spacing: 1.4px; 
+}
+p { 
+    width: 830px;
+    height: 124px;
+    color: #D1D1D1;
+    font-family: Tisa OT; 
+    font-weight: normal;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 44px;
+      /*font weight regular da normal erti da igivea ? */
+}
+span {
+
+    color: #D1D1D1;
+    font-family: Tisa OT; 
+    font-weight: normal;
+    font-size: 22 px;
+    font-weight: bold;
+    text-transform: capitalize;
+    line-height: 44px;
+    letter-spacing: 1.54px; 
+}
+
+.general-content {
+    margin-left: 179px;
+}
